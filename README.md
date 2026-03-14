@@ -1,5 +1,5 @@
 # NTU-Final-Year-Project-SC4079
-Exemplar selection for In-Context Learning under complex scenarios
+Exemplar Selection for In-Context Learning Under Complex Scenarios
 
 Repository contains files/code related to the project.
 
@@ -10,3 +10,6 @@ https://entuedu-my.sharepoint.com/:f:/r/personal/bjang002_e_ntu_edu_sg/Documents
 They include:
 1) Datasets Used
 2) Trained Transformer Model Code
+
+Brandon Jang Jin Tian
+U2220936G
